@@ -16,7 +16,7 @@ Paraphrase selected text into easy-to-understand language.
 - **Note:**  
   The ChatGPT desktop app is required. You may define a keyboard shortcut for easy access.  
   For first-time setup, open the Shortcuts app, click the information icon for the shortcut,  
-  and set a keyboard shortcut (e.g., `Cmd + Ctrl + K`).
+  and add a keyboard shortcut (e.g., `Cmd + Ctrl + K`). *Make sure there are no conflicts.*
 
 - **Usage:**  
   Copy text to the clipboard, then press your keyboard shortcut to see the paraphrased result.

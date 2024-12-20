@@ -12,7 +12,8 @@ Click any shortcut icon to quickly add it to your device and start using it righ
 ### 1. **GPT Paraphraser**  
 Paraphrase any selected text into easy-to-understand language.  
 
-- **Note:** The GPT desktop app is required. You may need to open the Shortcuts app, find the information icon for the shortcut, and define a keyboard shortcut.  
+- **Note:** The GPT desktop app is required.
+- You may need to open the Shortcuts app, find the information icon for the shortcut, and define a keyboard shortcut.  
 - **Usage:** Copy any text to the clipboard, then press `Cmd + Ctrl + K` to see the paraphrased result.
 
 <a href="https://www.icloud.com/shortcuts/0c7d047b6f6f48eb97cbec556fbd750b">

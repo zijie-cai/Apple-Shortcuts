@@ -10,8 +10,8 @@ Click any shortcut below to quickly add it to your device and start using it rig
 ## 🚀 Shortcuts
 
 ### 1. **GPT Paraphraser**  
-Paraphrase any selected text quickly and efficiently. Just highlight the text you want to rewrite,  
-press `Cmd + Ctrl + P` to process it, and instantly see a simplified version of the original text.
+Paraphrase any selected text quickly and efficiently. Just highlight the text, press 
+`Cmd + Ctrl + P` to process it, and see a simplified version of the original text.
 
 <a href="https://www.icloud.com/shortcuts/ff125294f2384b8f9a80ed205bd4e666">
   <img src="icons/GPT-Paraphraser.png" alt="GPT Paraphraser Icon" width="300" height="300">

@@ -1,6 +1,8 @@
 # Apple Shortcut Gallery
 
-This is a collection of Apple shortcuts designed to accelerate daily tasks. Click on any shortcut to add it to your device.
+This is a collection of Apple shortcuts designed to accelerate daily tasks. 
+
+Click on any shortcut to add it to your device.
 
 <img src="https://images.macrumors.com/t/WQYYFJqqU1GzL66sNXNqRSmh7Tg=/1600x0/article-new/2024/09/Apple-Intelligence-General-Feature-2.jpg" alt="Apple Intelligence" width="300">
 

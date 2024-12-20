@@ -18,7 +18,7 @@ Paraphrase any selected text into easy-to-understand language.
   find the information icon for the shortcut, and define a keyboard shortcut.  
 
 - **Usage:**  
-  Copy any text to the clipboard with `Cmd + C`, then press `Cmd + Ctrl + K` to see the paraphrased result.
+  Copy any text to the clipboard, then press `Cmd + Ctrl + K` to see the paraphrased result.
 
 <a href="https://www.icloud.com/shortcuts/0c7d047b6f6f48eb97cbec556fbd750b">  
   <img src="icons/GPT-Paraphraser.png"  

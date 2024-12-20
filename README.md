@@ -13,6 +13,6 @@ Click any shortcut icon to quickly add it to your device and start using it righ
 Paraphrase any selected text into easy-to-understand language.  
 Simply copy the text and press `Cmd + Ctrl + K` to see the result.
 
-<a href="https://www.icloud.com/shortcuts/29ba84405afd4d4a80b8717734ce9dda">
+<a href="https://www.icloud.com/shortcuts/0c7d047b6f6f48eb97cbec556fbd750b">
   <img src="icons/GPT-Paraphraser.png" alt="GPT Paraphraser Icon" width="300" height="300">
 </a>

@@ -6,7 +6,7 @@ Easily paraphrase selected text on macOS with this shortcut. Just highlight text
 
 Click the image below to add the shortcut to your Apple device:
 
-[![Add Shortcut](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Apple_Intelligence.png/330px-Apple_Intelligence.png)](https://www.icloud.com/shortcuts/ff125294f2384b8f9a80ed205bd4e666)
+[![Add Shortcut](https://developer.apple.com/assets/elements/icons/coreml/coreml-96x96_2x.png)](https://www.icloud.com/shortcuts/ff125294f2384b8f9a80ed205bd4e666)
 
 ## How to Use
 

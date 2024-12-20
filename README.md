@@ -1,7 +1,7 @@
 # 🛠️ Apple Shortcut Gallery
 
-A collection of Apple Shortcuts designed to simplify and accelerate your daily tasks.  
-Click any shortcut below to quickly add it to your device and start using it right away.
+A curated collection of Apple Shortcuts designed to accelerate your daily tasks.  
+Click any shortcut icon to quickly add it to your device and start using right away.
 
 <img src="https://cdn.jim-nielsen.com/ios/1024/shortcuts-2018-10-03.png?rf=1024" alt="Apple Shortcuts" width="300" height="300">
 

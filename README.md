@@ -1,4 +1,4 @@
-help me rewrite # 🛠️ Apple Shortcuts Gallery
+# 🛠️ Apple Shortcuts Gallery
 
 A curated collection of Apple Shortcuts designed to accelerate your daily tasks.  
 Click any shortcut icon to quickly add it to your device and start using it right away.
@@ -17,5 +17,3 @@ Simply copy the text and press `Cmd + Ctrl + K` to see the result.
   <img src="icons/GPT-Paraphraser.png" alt="GPT Paraphraser Icon" width="300" height="300">
 </a>
 
-
-for gpt paraphraser. add note for user: GPT desktop App is required and may need to got to shortcuts and find information icon to define keyboard shortcuts. add user needs to copy any text to clip board 

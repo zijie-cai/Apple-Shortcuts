@@ -1,4 +1,4 @@
-# 🛠️ Apple Shortcut Gallery
+# 🛠️ Apple Shortcuts Gallery
 
 A curated collection of Apple Shortcuts designed to accelerate your daily tasks.  
 Click any shortcut icon to quickly add it to your device and start using right away.

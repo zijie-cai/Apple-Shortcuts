@@ -6,7 +6,7 @@ Easily paraphrase selected text on macOS with this shortcut. Just highlight text
 
 Click the image below to add the shortcut to your Apple device:
 
-[![Add Shortcut]([https://via.placeholder.com/200x50.png?text=Add+Shortcut](https://external-preview.redd.it/apple-intelligence-writing-tools-all-the-features-v0-qTP7hboSCNE2J4qd-TNw_8ouvmVRpDFMJf1lluDqzls.jpg?auto=webp&s=0b9c3009cb801ad32d18f59e7edeb4844760391f))](https://www.icloud.com/shortcuts/ff125294f2384b8f9a80ed205bd4e666)
+[![Add Shortcut](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fapple%2Fcomments%2F1fp1tyc%2Fapple_intelligence_writing_tools_all_the_features%2F&psig=AOvVaw0mC7q5kEUWQNzR8uaFuWPv&ust=1734800047493000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLjJ9_fntooDFQAAAAAdAAAAABAg)](https://www.icloud.com/shortcuts/ff125294f2384b8f9a80ed205bd4e666)
 
 ## How to Use
 1. Highlight any text on your macOS device.

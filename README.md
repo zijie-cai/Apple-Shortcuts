@@ -14,7 +14,7 @@ alt="Apple Shortcuts" width="300" height="300">
 Paraphrase selected text into easy-to-understand language.
 
 - **Note:**  
-  The ChatGPT desktop app is required. Define a keyboard shortcut for easy access.  
+  The ChatGPT desktop app is required. You may define a keyboard shortcut for easy access.  
   For first-time setup, open the Shortcuts app, click the information icon for the shortcut,  
   and set a keyboard shortcut (e.g., `Cmd + Ctrl + K`).
 
